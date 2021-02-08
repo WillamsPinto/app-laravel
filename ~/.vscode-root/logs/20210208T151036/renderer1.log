@@ -1,0 +1,3 @@
+[2021-02-08 15:11:13.925] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dev/Documentos/Docker/projetos/app-laravel/.vscode'
+[2021-02-08 15:11:47.804] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-02-08 15:11:47.826] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

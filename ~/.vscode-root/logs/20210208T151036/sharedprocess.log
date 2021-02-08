@@ -1,0 +1,15 @@
+[2021-02-08 15:10:41.729] [sharedprocess] [info] main {"machineId":"3e9156084111efb2d4f49f4fe7bb8936c4af24c8ac60d5ac0146116f3bd7fcf6","windowId":2}
+[2021-02-08 15:10:42.523] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/dev/Documentos/Docker/projetos/app-laravel/~/.vscode-root/User/snippets'
+[2021-02-08 15:11:21.886] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-02-08 15:38:36.592] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2021-02-08 15:38:37.490] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets undefined
+[2021-02-08 15:38:37.942] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2021-02-08 15:38:37.944] [sharedprocess] [info] Renamed to /root/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2021-02-08 15:38:37.948] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2021-02-08 15:38:37.979] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2021-02-08 15:38:41.204] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2021-02-08 15:38:41.972] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css undefined
+[2021-02-08 15:38:42.343] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ecmel.vscode-html-css-1.9.1: ecmel.vscode-html-css
+[2021-02-08 15:38:42.344] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ecmel.vscode-html-css-1.9.1
+[2021-02-08 15:38:42.347] [sharedprocess] [info] Installation completed. ecmel.vscode-html-css
+[2021-02-08 15:38:42.403] [sharedprocess] [info] Extensions installed successfully: ecmel.vscode-html-css

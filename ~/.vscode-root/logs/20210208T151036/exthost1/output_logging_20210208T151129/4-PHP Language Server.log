@@ -1,0 +1,250 @@
+DEBUG     Checking PHPLS_ALLOW_XDEBUG
+DEBUG     The xdebug extension is not loaded
+
+[Info  - 15:11:58] 6111 files total
+[Info  - 15:11:58] Indexing project for definitions and static references
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/channels.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/api.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/console.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/web.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/server.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/autoload.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_classmap.php
+[Info  - 15:11:58] Ignoring file file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (589297)
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/platform_check.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/InstalledVersions.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_files.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_real.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/installed.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_static.php
+[Info  - 15:11:58] Ignoring file file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (649633)
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/TestCase.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/CreatesApplication.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/views/welcome.blade.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/auth.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/validation.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/passwords.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/pagination.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/broadcasting.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/mail.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/filesystems.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/database.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/auth.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/logging.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/queue.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/app.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/session.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/hashing.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/view.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/cache.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/services.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/cors.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Exceptions/Handler.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Console/Kernel.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrustHosts.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/Authenticate.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Kernel.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Models/User.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/seeders/DatabaseSeeder.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/factories/UserFactory.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/storage/framework/views/111a62bf77cd942670c52869bde74a38aa6703d0.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/public/index.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/cache/packages.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/cache/services.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/app.php
+[Info  - 15:12:01] Indexing project for dynamic references
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/channels.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/api.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/routes/console.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/server.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/autoload.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_psr4.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/ClassLoader.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_classmap.php
+[Info  - 15:12:01] Ignoring file file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_classmap.php because it exceeds size limit of 150000 bytes (589297)
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_namespaces.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/platform_check.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/InstalledVersions.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_files.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_real.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/installed.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_static.php
+[Info  - 15:12:01] Ignoring file file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/composer/autoload_static.php because it exceeds size limit of 150000 bytes (649633)
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/TestCase.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/CreatesApplication.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/Feature/ExampleTest.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/tests/Unit/ExampleTest.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/views/welcome.blade.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/auth.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/validation.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/passwords.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/resources/lang/en/pagination.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/broadcasting.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/mail.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/filesystems.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/database.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/auth.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/logging.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/queue.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/app.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/session.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/hashing.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/view.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/cache.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/services.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/config/cors.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Exceptions/Handler.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/BroadcastServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/RouteServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/AppServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/EventServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Providers/AuthServiceProvider.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Console/Kernel.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Controllers/Controller.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrustHosts.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/PreventRequestsDuringMaintenance.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/RedirectIfAuthenticated.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrimStrings.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/Authenticate.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/VerifyCsrfToken.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/EncryptCookies.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Middleware/TrustProxies.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Http/Kernel.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/app/Models/User.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/seeders/DatabaseSeeder.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2014_10_12_000000_create_users_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2019_08_19_000000_create_failed_jobs_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/migrations/2014_10_12_100000_create_password_resets_table.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/database/factories/UserFactory.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/storage/framework/views/111a62bf77cd942670c52869bde74a38aa6703d0.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/public/index.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/cache/packages.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/cache/services.php
+Parsing file:///home/dev/Documentos/Docker/projetos/app-laravel/bootstrap/app.php
+[Info  - 15:12:05] 105 Packages
+[Info  - 15:12:05] Restored asm89/stack-cors:2.0.2 from cache
+[Info  - 15:12:05] Restored graham-campbell/result-type:1.0.1 from cache
+[Info  - 15:12:06] Restored psy/psysh:0.10.6 from cache
+[Info  - 15:12:06] Restored hamcrest/hamcrest-php:2.0.1 from cache
+[Info  - 15:12:07] Restored filp/whoops:2.9.2 from cache
+[Info  - 15:12:07] Restored ramsey/uuid:4.1.1 from cache
+[Info  - 15:12:07] Restored ramsey/collection:1.1.3 from cache
+[Info  - 15:12:07] Restored psr/log:1.1.3 from cache
+[Info  - 15:12:07] Restored psr/http-client:1.0.1 from cache
+[Info  - 15:12:07] Restored psr/event-dispatcher:1.0.0 from cache
+[Info  - 15:12:07] Restored psr/container:1.0.0 from cache
+[Info  - 15:12:07] Restored psr/simple-cache:1.0.1 from cache
+[Info  - 15:12:08] Restored psr/http-message:1.0.1 from cache
+[Info  - 15:12:08] Restored phpspec/prophecy:1.12.2 from cache
+[Info  - 15:12:08] Restored doctrine/inflector:2.0.3 from cache
+[Info  - 15:12:08] Restored doctrine/instantiator:1.4.0 from cache
+[Info  - 15:12:11] Restored doctrine/lexer:1.2.1 from cache
+[Info  - 15:12:11] Restored fakerphp/faker:1.13.0 from cache
+[Info  - 15:12:11] Restored swiftmailer/swiftmailer:6.2.5 from cache
+[Info  - 15:12:14] Restored phpunit/php-timer:5.0.3 from cache
+[Info  - 15:12:14] Restored phpunit/phpunit:9.5.2 from cache
+[Info  - 15:12:14] Restored phpunit/php-file-iterator:3.0.5 from cache
+[Info  - 15:12:14] Restored phpunit/php-code-coverage:9.2.5 from cache
+[Info  - 15:12:14] Restored phpunit/php-text-template:2.0.4 from cache
+[Info  - 15:12:14] Restored phpunit/php-invoker:3.1.1 from cache
+[Info  - 15:12:16] Restored opis/closure:3.6.1 from cache
+[Info  - 15:12:16] Restored fruitcake/laravel-cors:2.0.3 from cache
+[Info  - 15:12:16] Restored facade/ignition-contracts:1.0.2 from cache
+[Info  - 15:12:16] Restored facade/flare-client-php:1.3.7 from cache
+[Info  - 15:12:16] Restored facade/ignition:2.5.11 from cache
+[Info  - 15:12:16] Restored egulias/email-validator:2.1.25 from cache
+[Info  - 15:12:16] Restored nunomaduro/collision:5.3.0 from cache
+[Info  - 15:12:16] Restored dragonmantank/cron-expression:3.1.0 from cache
+[Info  - 15:12:16] Restored brick/math:0.9.2 from cache
+[Info  - 15:12:18] Restored vlucas/phpdotenv:5.3.0 from cache
+[Info  - 15:12:18] Restored monolog/monolog:2.2.0 from cache
+[Info  - 15:12:18] Restored webmozart/assert:1.9.1 from cache
+[Info  - 15:12:18] Restored dnoegel/php-xdg-base-dir:0.1.1 from cache
+[Info  - 15:12:18] Restored theseer/tokenizer:1.2.0 from cache
+[Info  - 15:12:18] Restored league/flysystem:1.1.3 from cache
+[Info  - 15:12:19] Restored league/mime-type-detection:1.7.0 from cache
+[Info  - 15:12:19] Restored league/commonmark:1.5.7 from cache
+[Info  - 15:12:19] Restored phpoption/phpoption:1.7.5 from cache
+[Info  - 15:12:19] Restored ralouphie/getallheaders:3.0.3 from cache
+[Info  - 15:12:19] Restored tijsverkoyen/css-to-inline-styles:2.2.3 from cache
+[Info  - 15:12:19] Restored fideloper/proxy:4.4.1 from cache
+[Info  - 15:12:19] Restored phpdocumentor/type-resolver:1.4.0 from cache
+[Info  - 15:12:19] Restored phpdocumentor/reflection-common:2.2.0 from cache
+[Info  - 15:12:19] Restored phpdocumentor/reflection-docblock:5.2.2 from cache
+[Info  - 15:12:19] Restored phar-io/version:3.0.4 from cache
+[Info  - 15:12:19] Restored phar-io/manifest:2.0.1 from cache
+[Info  - 15:12:20] Restored guzzlehttp/psr7:1.7.0 from cache
+[Info  - 15:12:20] Restored guzzlehttp/guzzle:7.2.0 from cache
+[Info  - 15:12:21] Restored guzzlehttp/promises:1.4.0 from cache
+[Info  - 15:12:21] Restored symfony/translation:5.2.3 from cache
+[Info  - 15:12:21] Restored symfony/var-dumper:5.2.3 from cache
+[Info  - 15:12:21] Restored symfony/http-client-contracts:2.3.1 from cache
+[Info  - 15:12:22] Restored symfony/mime:5.2.3 from cache
+[Info  - 15:12:22] Restored symfony/translation-contracts:2.3.0 from cache
+[Info  - 15:12:22] Restored symfony/event-dispatcher-contracts:2.2.0 from cache
+[Info  - 15:12:22] Restored symfony/polyfill-php72:1.22.0 from cache
+[Info  - 15:12:22] Restored symfony/finder:5.2.3 from cache
+[Info  - 15:12:22] Restored symfony/polyfill-mbstring:1.22.0 from cache
+[Info  - 15:12:22] Restored symfony/http-kernel:5.2.3 from cache
+[Info  - 15:12:22] Restored symfony/string:5.2.3 from cache
+[Info  - 15:12:22] Restored symfony/routing:5.2.3 from cache
+[Info  - 15:12:22] Restored symfony/service-contracts:2.2.0 from cache
+[Info  - 15:12:22] Restored symfony/polyfill-intl-idn:1.22.0 from cache
+[Info  - 15:12:23] Restored symfony/deprecation-contracts:2.2.0 from cache
+[Info  - 15:12:23] Restored symfony/polyfill-iconv:1.22.0 from cache
+[Info  - 15:12:23] Restored symfony/polyfill-intl-grapheme:1.22.0 from cache
+[Info  - 15:12:23] Restored symfony/event-dispatcher:5.2.3 from cache
+[Info  - 15:12:25] Restored symfony/polyfill-php80:1.22.0 from cache
+[Info  - 15:12:25] Restored symfony/console:5.2.3 from cache
+[Info  - 15:12:25] Restored symfony/http-foundation:5.2.3 from cache
+[Info  - 15:12:25] Restored symfony/error-handler:5.2.3 from cache
+[Info  - 15:12:25] Restored symfony/css-selector:5.2.3 from cache
+[Info  - 15:12:25] Restored symfony/polyfill-php73:1.22.0 from cache
+[Info  - 15:12:25] Restored symfony/polyfill-intl-normalizer:1.22.0 from cache
+[Info  - 15:12:25] Restored symfony/polyfill-ctype:1.22.0 from cache
+[Info  - 15:12:26] Restored symfony/process:5.2.3 from cache
+[Info  - 15:12:26] Restored nikic/php-parser:4.10.4 from cache
+[Info  - 15:12:28] Restored nesbot/carbon:2.44.0 from cache
+[Info  - 15:12:28] Restored sebastian/type:2.3.1 from cache
+[Info  - 15:12:28] Restored sebastian/exporter:4.0.3 from cache
+[Info  - 15:12:28] Restored sebastian/comparator:4.0.6 from cache
+[Info  - 15:12:28] Restored sebastian/code-unit-reverse-lookup:2.0.3 from cache
+[Info  - 15:12:28] Restored sebastian/global-state:5.0.2 from cache
+[Info  - 15:12:28] Restored sebastian/lines-of-code:1.0.3 from cache
+[Info  - 15:12:28] Restored sebastian/diff:4.0.4 from cache
+[Info  - 15:12:28] Restored sebastian/recursion-context:4.0.4 from cache
+[Info  - 15:12:28] Restored sebastian/environment:5.1.3 from cache
+[Info  - 15:12:28] Restored sebastian/resource-operations:3.0.3 from cache
+[Info  - 15:12:28] Restored sebastian/code-unit:1.0.8 from cache
+[Info  - 15:12:28] Restored sebastian/cli-parser:1.0.1 from cache
+[Info  - 15:12:28] Restored sebastian/version:3.0.2 from cache
+[Info  - 15:12:28] Restored sebastian/complexity:2.0.2 from cache
+[Info  - 15:12:28] Restored sebastian/object-enumerator:4.0.4 from cache
+[Info  - 15:12:36] Restored sebastian/object-reflector:2.0.4 from cache
+[Info  - 15:12:36] Restored laravel/framework:8.26.1 from cache
+[Info  - 15:12:36] Restored laravel/sail:1.3.0 from cache
+[Info  - 15:12:36] Restored laravel/tinker:2.6.0 from cache
+[Info  - 15:12:38] Restored voku/portable-ascii:1.5.6 from cache
+[Info  - 15:12:38] Restored mockery/mockery:1.4.2 from cache
+[Info  - 15:12:39] Restored myclabs/deep-copy:1.10.2 from cache
+[Info  - 15:12:39] All 6111 PHP files parsed in 43 seconds. 461 MiB allocated.

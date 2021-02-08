@@ -1,0 +1,7 @@
+[Info  - 15:11:58] Initialising intelephense 1.6.3
+[Info  - 15:11:58] Initialised in 61 ms
+[Warn  - 15:12:08] file:///home/dev/Documentos/Docker/projetos/app-laravel/vendor/fakerphp/faker/src/Faker/Provider/nl_BE/Text.php is over the maximum file size of 1000000 bytes.
+[Info  - 15:12:08] Indexing started.
+[Info  - 15:13:51] Indexing ended. 6167 files indexed in 103s.
+[Info  - 15:13:51] Writing state to /home/dev/Documentos/Docker/projetos/app-laravel/~/.vscode-root/User/workspaceStorage/19680109ed61c6f5ae6fd9bc0c25c20e/bmewburn.vscode-intelephense-client/527f0ff5.
+[Info  - 15:13:57] Wrote state in 5.5s.
